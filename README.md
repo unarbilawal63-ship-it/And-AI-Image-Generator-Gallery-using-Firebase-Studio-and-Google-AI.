@@ -1,4 +1,4 @@
-# And-AI-Image-Generator-Gallery-using-Firebase-Studio-and-Google-AI.
+#-AI-Image-Generator-Gallery-using-Firebase-Studio-and-Google-AI.
 
 
 Create stunning AI-generated images from text prompts.
